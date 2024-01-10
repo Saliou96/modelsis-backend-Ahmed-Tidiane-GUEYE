@@ -30,7 +30,7 @@ J'utilise la version 21 de Java dans ce projet suite à des soucis avec la versi
 
 2.Ouvrir le projet avec intelliJ (c'est ce que j'utilise) , laisser le système charger les dépendances.
 
-3.Créer la base de données modelsis (user:postgres, mdp:new_password)
+3.Créer la base de données modelsis sur Postgres (user:postgres, mdp:new_password)
   
   a.Pour changer le mot de passe de l'utilisateur postgres:
   
