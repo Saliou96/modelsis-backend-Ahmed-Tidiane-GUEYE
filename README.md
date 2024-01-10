@@ -4,6 +4,7 @@ J'utilise la version 21 de Java dans ce projet suite à des soucis avec la versi
 
 -> Ce projet consiste à créer une api de CRUD pour des produits et type de produit.
 
+
 -> Stack utilisée:
 
  Java 21
@@ -22,6 +23,7 @@ J'utilise la version 21 de Java dans ce projet suite à des soucis avec la versi
 
  Lombok
 
+
 -> Execution:
 
 1.Après avoir cloné le projet (Se placer au niveau d'un repertoire et taper git clone <nom_repository>)
@@ -34,11 +36,13 @@ J'utilise la version 21 de Java dans ce projet suite à des soucis avec la versi
   
   b.Ouvrir un terminal et se placer au niveau du repertoire de postgres (dans mon cas )
   
-  c.taper la commande psql -U postgres pour se connecter en tant que superutilisateur
+  c.tapez la commande psql -U postgres pour se connecter en tant que superutilisateur
   
   d.tapez CREATE DATABASE modelsis;
   
-  e.donner à l'utilisateur tous les privilèges sur la base de données modelsis en tapant 
+  e.donnez à l'utilisateur tous les privilèges sur la base de données modelsis en tapant 
   
   => GRANT ALL PRIVILEGES ON DATABASE modelsis TO postgres;
+
+4.Lancez l'application
 
